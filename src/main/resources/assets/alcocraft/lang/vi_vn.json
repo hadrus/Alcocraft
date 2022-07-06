@@ -1,0 +1,59 @@
+{
+  "itemGroup.alcotab": "Alcocraft",
+
+  "block.alcocraft.spruce_keg": "Keg bia",
+  "block.alcocraft.hop_block": "Cây hoa bia",
+  "block.alcocraft.hop_plant_block": "Cây hoa bia",
+
+  "item.alcocraft.hop": "Hoa bia",
+  "item.alcocraft.hop_seeds": "Hạt cây hoa bia",
+  "item.alcocraft.dry_seeds": "Hạt lúa mì khô",
+
+  "item.alcocraft.spruce_mug_empty": "Cốc rỗng",
+
+  "item.alcocraft.spruce_mug_sun_pale_ale": "Cốc Sun Pale Ale",
+  "item.alcocraft.spruce_mug_digger_bitter": "Cốc Digger Bitter",
+  "item.alcocraft.spruce_mug_nether_porter": "Cốc Nether Porter",
+  "item.alcocraft.spruce_mug_wither_stout": "Cốc Wither Stout",
+  "item.alcocraft.spruce_mug_magnet_pilsner": "Cốc Magnet Pilsner",
+  "item.alcocraft.spruce_mug_drowned_ale": "Cốc Drowned Ale",
+  "item.alcocraft.spruce_mug_night_rauch": "Cốc Night Rauch",
+  "item.alcocraft.spruce_mug_ice_beer": "Cốc Ice Beer",
+  "item.alcocraft.spruce_mug_kvass": "Cốc Kvass",
+  "item.alcocraft.spruce_mug_leprechaun_cider": "Cốc Leprechaun Cider",
+  "item.alcocraft.spruce_mug_chorus_ale": "Cốc Chorus Ale",
+  "item.alcocraft.spruce_mug_nether_star_lager": "Cốc Nether Star Lager",
+
+  "block.alcocraft.spruce_mug_block_empty": "Cốc rỗng",
+
+  "block.alcocraft.spruce_mug_block_sun_pale_ale": "Cốc Sun Pale Ale",
+  "block.alcocraft.spruce_mug_block_digger_bitter": "Cốc Digger Bitter",
+  "block.alcocraft.spruce_mug_block_nether_porter": "Cốc Nether Porter",
+  "block.alcocraft.spruce_mug_block_wither_stout": "Cốc Wither Stout",
+  "block.alcocraft.spruce_mug_block_magnet_pilsner": "Cốc Magnet Pilsner",
+  "block.alcocraft.spruce_mug_block_drowned_ale": "Cốc Drowned Ale",
+  "block.alcocraft.spruce_mug_block_night_rauch": "Cốc Night Rauch",
+  "block.alcocraft.spruce_mug_block_ice_beer": "Cốc Ice Beer",
+  "block.alcocraft.spruce_mug_block_kvass": "Cốc Kvass",
+  "block.alcocraft.spruce_mug_block_leprechaun_cider": "Cốc Leprechaun Cider",
+  "block.alcocraft.spruce_mug_block_chorus_ale": "Cốc Chorus Ale",
+  "block.alcocraft.spruce_mug_block_nether_star_lager": "Cốc Nether Star Lager",
+
+  "effect.alcocraft.flight": "Bay bổng",
+  "effect.alcocraft.freeze": "Lạnh buốt",
+  "effect.alcocraft.phantom": "Nghỉ ngơi tốt",
+  "effect.alcocraft.attract": "Sức hút",
+  "effect.alcocraft.wither": "Cái chạm khô héo",
+
+  "advancements.husbandry.hop.title": "Chuẩn bị bay nhảy",
+  "advancements.husbandry.hop.description": "Có được hoa bia bằng cách trồng hạt hoa bia ở phía dưới của khối.",
+
+  "advancements.husbandry.keg.title": "Tất cả bắt đầu với một Keg bia",
+  "advancements.husbandry.keg.description": "Chế tạo một keg bia và bắt đầu hành trình sản xuất bia của bạn.",
+
+  "advancements.husbandry.mug.title": "1 2 3 zô... 2 3 zô",
+  "advancements.husbandry.mug.description": "Uống bia lần đầu tiên",
+
+  "advancements.husbandry.all_beer.title": "Không say không về",
+  "advancements.husbandry.all_beer.description": "Ủ và uống tất cả các loại bia."
+}
