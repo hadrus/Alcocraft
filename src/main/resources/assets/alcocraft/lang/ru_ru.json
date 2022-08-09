@@ -1,0 +1,59 @@
+{
+  "itemGroup.alcotab": "Alcocraft",
+
+  "block.alcocraft.spruce_keg": "Бочонок",
+  "block.alcocraft.hop_block": "Хмель",
+  "block.alcocraft.hop_plant_block": "Хмель",
+
+  "item.alcocraft.hop": "Хмель",
+  "item.alcocraft.hop_seeds": "Семена хмеля",
+  "item.alcocraft.dry_seeds": "Сушёные семена пшеницы",
+
+  "item.alcocraft.spruce_mug_empty": "Пустая кружка",
+
+  "item.alcocraft.spruce_mug_sun_pale_ale": "Кружка «Пейл-эля»",
+  "item.alcocraft.spruce_mug_digger_bitter": "Кружка «Горняка-горького»",
+  "item.alcocraft.spruce_mug_nether_porter": "Кружка «Незер-портье»",
+  "item.alcocraft.spruce_mug_wither_stout": "Кружка «Визера-крепкого»",
+  "item.alcocraft.spruce_mug_magnet_pilsner": "Кружка «Пильзнера»",
+  "item.alcocraft.spruce_mug_drowned_ale": "Кружка «Утоп-эля»",
+  "item.alcocraft.spruce_mug_night_rauch": "Кружка «Ночного рауха»",
+  "item.alcocraft.spruce_mug_ice_beer": "Кружка холодного пива",
+  "item.alcocraft.spruce_mug_kvass": "Кружка кваса",
+  "item.alcocraft.spruce_mug_leprechaun_cider": "Кружка сидра",
+  "item.alcocraft.spruce_mug_chorus_ale": "Кружка хорусного эля",
+  "item.alcocraft.spruce_mug_nether_star_lager": "Кружка лагера «Звезда Незера»",
+
+  "block.alcocraft.spruce_mug_block_empty": "Пустая кружка",
+
+  "block.alcocraft.spruce_mug_block_sun_pale_ale": "Кружка «Пейл-эля»",
+  "block.alcocraft.spruce_mug_block_digger_bitter": "Кружка «Горняка-горькое",
+  "block.alcocraft.spruce_mug_block_nether_porter": "Кружка «Незер-портье",
+  "block.alcocraft.spruce_mug_block_wither_stout": "Кружка «Визера-крепкого»",
+  "block.alcocraft.spruce_mug_block_magnet_pilsner": "Кружка «Пильзнера»",
+  "block.alcocraft.spruce_mug_block_drowned_ale": "Кружка «Утоп-эля»",
+  "block.alcocraft.spruce_mug_block_night_rauch": "Кружка «Ночного рауха»",
+  "block.alcocraft.spruce_mug_block_ice_beer": "Кружка холодного пива",
+  "block.alcocraft.spruce_mug_block_kvass": "Кружка кваса",
+  "block.alcocraft.spruce_mug_block_leprechaun_cider": "Кружка сидра",
+  "block.alcocraft.spruce_mug_block_chorus_ale": "Кружка хорусного эля",
+  "block.alcocraft.spruce_mug_block_nether_star_lager": "Кружка лагера «Звезда Незера»",
+
+  "effect.alcocraft.flight": "Полёт",
+  "effect.alcocraft.freeze": "Мёрзлый",
+  "effect.alcocraft.phantom": "Хорошо отдохнувший",
+  "effect.alcocraft.attract": "Притяжение",
+  "effect.alcocraft.wither": "Касание визера",
+
+  "advancements.husbandry.hop.title": "В хозяйстве сгодится...",
+  "advancements.husbandry.hop.description": "Получите хмель, посадив семена хмеля на нижнюю часть блока",
+
+  "advancements.husbandry.keg.title": "Кубок мудреца",
+  "advancements.husbandry.keg.description": "Создайте кружку и начните свой путь пивовара",
+
+  "advancements.husbandry.mug.title": "Жидкое золото",
+  "advancements.husbandry.mug.description": "Сварите пиво",
+
+  "advancements.husbandry.all_beer.title": "Твоя сила и мудрость",
+  "advancements.husbandry.all_beer.description": "Сварите и выпейте все сорта пива"
+}
