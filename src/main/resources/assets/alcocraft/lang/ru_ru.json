@@ -1,0 +1,59 @@
+{
+  "itemGroup.alcotab": "Alcocraft",
+
+  "block.alcocraft.spruce_keg": "Кег",
+  "block.alcocraft.hop_block": "Хмель",
+  "block.alcocraft.hop_plant_block": "Хмель",
+
+  "item.alcocraft.hop": "Хмель",
+  "item.alcocraft.hop_seeds": "Семена хмеля",
+  "item.alcocraft.dry_seeds": "Сушёные семена",
+
+  "item.alcocraft.spruce_mug_empty": "Пустая кружка",
+
+  "item.alcocraft.spruce_mug_sun_pale_ale": "Солнечный пейл-эль",
+  "item.alcocraft.spruce_mug_digger_bitter": "Шахтёрский биттер",
+  "item.alcocraft.spruce_mug_nether_porter": "Адский портер",
+  "item.alcocraft.spruce_mug_wither_stout": "Иссушающий стаут",
+  "item.alcocraft.spruce_mug_magnet_pilsner": "Магнитный пильзнер",
+  "item.alcocraft.spruce_mug_drowned_ale": "Затопленный эль",
+  "item.alcocraft.spruce_mug_night_rauch": "Ночной Rauch",
+  "item.alcocraft.spruce_mug_ice_beer": "Ледяное пиво",
+  "item.alcocraft.spruce_mug_kvass": "Квас",
+  "item.alcocraft.spruce_mug_leprechaun_cider": "Сидр Leprechaun",
+  "item.alcocraft.spruce_mug_chorus_ale": "Хорусовый эль",
+  "item.alcocraft.spruce_mug_nether_star_lager": "Лагер из звезды незера",
+
+  "block.alcocraft.spruce_mug_block_empty": "Пустая кружка",
+
+  "block.alcocraft.spruce_mug_block_sun_pale_ale": "Солнечный пейл-эль",
+  "block.alcocraft.spruce_mug_block_digger_bitter": "Шахтёрский биттер",
+  "block.alcocraft.spruce_mug_block_nether_porter": "Адский портер",
+  "block.alcocraft.spruce_mug_block_wither_stout": "Иссушающий стаут",
+  "block.alcocraft.spruce_mug_block_magnet_pilsner": "Магнитный пильзнер",
+  "block.alcocraft.spruce_mug_block_drowned_ale": "Затопленный эль",
+  "block.alcocraft.spruce_mug_block_night_rauch": "Ночной Rauch",
+  "block.alcocraft.spruce_mug_block_ice_beer": "Ледяное пиво",
+  "block.alcocraft.spruce_mug_block_kvass": "Квас",
+  "block.alcocraft.spruce_mug_block_leprechaun_cider": "Сидр Leprechaun",
+  "block.alcocraft.spruce_mug_block_chorus_ale": "Хорусовый эль",
+  "block.alcocraft.spruce_mug_block_nether_star_lager": "Лагер из звезды незера",
+
+  "effect.alcocraft.flight": "Полёт",
+  "effect.alcocraft.freeze": "Замораживание",
+  "effect.alcocraft.phantom": "Отдых",
+  "effect.alcocraft.attract": "Притягивание",
+  "effect.alcocraft.wither": "Иссушающее прикосновение",
+
+  "advancements.husbandry.hop.title": "Было ремесло, да хмелем поросло",
+  "advancements.husbandry.hop.description": "Получите хмель, выращивая семена хмеля на нижней стороне блока.",
+
+  "advancements.husbandry.keg.title": "Всё начинается с кега",
+  "advancements.husbandry.keg.description": "Создайте кег и начните ваше путешествие в мир пивоварения.",
+
+  "advancements.husbandry.mug.title": "Пить или не пить",
+  "advancements.husbandry.mug.description": "Сварите ваше первое пиво",
+
+  "advancements.husbandry.all_beer.title": "Выпью их все",
+  "advancements.husbandry.all_beer.description": "Сварите и попробуйте все виды пива."
+}
